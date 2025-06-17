@@ -120,6 +120,25 @@ Would you like me to now:
 ✅ Create a routing link to let you toggle or test these new tools from the main page?
 
 
+How You Can Test Right Now:
+
+If you want to test this version immediately:
+
+    Just ZIP your /src folder and all root config files (README, package.json, etc.)
+
+    Move to your VS 2022 machine
+
+    npm install
+
+    Add .env.local with your OpenAI key
+
+    npm run dev
+
+    Login as admin (admin / LoveI$Kind!25)oruser(djstocks7414@gmail.com/Dezare99)oruser(djstocks7414@gmail.com/Dezare99)
+
+    Try every dashboard tile and confirm every feature opens
+
+
 🚀 Features Included in Your Final Project
 🔑 Authentication and Roles
 Admin login (admin / LoveI$Kind!25$$)
